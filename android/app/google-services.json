@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845052724728",
+    "project_id": "clean-architecture-bloc",
+    "storage_bucket": "clean-architecture-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845052724728:android:d7a33715aad63d513a820d",
+        "android_client_info": {
+          "package_name": "com.example.clean_architecture_bloc_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845052724728-cd5kfbosqaubvto798esb9jj5vpuhj9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clean_architecture_bloc_firebase",
+            "certificate_hash": "908ecb083f16c662b40ab307a294d2dd56e5f641"
+          }
+        },
+        {
+          "client_id": "845052724728-pj832qbp9ng9einm751lg8av8cih492d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0q7LHfoK4VU_WbdXu-cXtT26sRnrILo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845052724728-hmteurk0ph12ej15r9aia985aej3dr06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
